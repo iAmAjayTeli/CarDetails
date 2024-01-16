@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Car Details</string>
+    <string name="Hatchback_manufacturer">Maruti Suzuki Swift, Hyundai i20, and Tata Altroz.</string>
+    <string name="Hatchback_price">₹3.5 lakhs to ₹12 lakhs1</string>
+    <string name="Hatchback_description">A hatchback is a car body configuration featuring a rear door that swings upward to provide access to a cargo area</string>
+    <string name="sedan_manu">" Honda City, Hyundai Verna, and Maruti Suzuki Ciaz"</string>
+    <string name="sedan_price">₹8 lakhs to ₹15 lakhs1</string>
+    <string name="sedan_des">" A sedan is a passenger car in a three-box configuration with separate compartments for engine, passenger, and cargo"</string>
+    <string name="mvp_manu">" Maruti Suzuki Ertiga, Toyota Innova Crysta, and Mahindra Marazzo"</string>
+    <string name="mvp_price">" ₹7 lakhs to ₹25 lakhs1"</string>
+    <string name="mvp_desc">" An MPV (Multi-Purpose Vehicle) is a car body style that combines the features of a hatchback or station wagon with those of a minivan"</string>
+    <string name="suv_manu">Kia Seltos, Hyundai Creta, and Mahindra Thar</string>
+    <string name="suv_price">" ₹8 lakhs to ₹40 lakhs"</string>
+    <string name="suv_desc">" An SUV (Sports Utility Vehicle) is a car body style that combines elements of road-going passenger cars with features from off-road vehicles, such as raised ground clearance and four-wheel drive"</string>
+    <string name="crossover_manu">Hyundai Venue, Kia Sonet, and Tata Nexon</string>
+    <string name="crossover_price">" ₹6 lakhs to ₹20 lakhs1"</string>
+    <string name="crossover_desc">" A crossover is a vehicle that combines features of a sport utility vehicle (SUV) with features from a passenger vehicle, especially those of a station wagon or hatchback."</string>
+    <string name="coupe_manu">BMW 4 Series, Audi A5, and Mercedes-Benz C-Class Coupe</string>
+    <string name="coupe_price">" ₹40 lakhs to ₹2 crores1"</string>
+    <string name="coupe_desc">" A coupe is a car with a fixed roof body style that is shorter than a sedan or saloon of the same model."</string>
+</resources>
